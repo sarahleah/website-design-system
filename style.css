@@ -96,6 +96,7 @@ nav li {
 
 .sansita-swashed h2 {
     font-size: 40px;
+    margin-bottom: 30px;
 }
 .sansita-swashed .h1{
     font-weight: 600;
@@ -120,3 +121,4 @@ nav li {
 p, h1, h2 {
     margin-top: 20px;
 }
+
