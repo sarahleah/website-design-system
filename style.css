@@ -1,9 +1,11 @@
 * {
     margin: 0;
 }
+
 main {
     background-color: #f9f7e9;
 }
+
 nav {
     padding: 10px;
     background-color: #69874d;
@@ -94,16 +96,20 @@ nav li {
     font-family: 'Sansita Swashed', cursive;
 }
 
-.sansita-swashed h2 {
+h2 {
+    font-family: 'Sansita Swashed', cursive;
     font-size: 40px;
     margin-bottom: 30px;
 }
-.sansita-swashed .h1{
+
+.h3 {
+    font-family: 'Sansita Swashed', cursive;
     font-weight: 600;
     font-size: x-large;
 }
 
-.sansita-swashed .h2 {
+.h4 {
+    font-family: 'Sansita Swashed', cursive;
     font-weight: 400;
     font-style: italic;
     font-size: larger;
@@ -122,3 +128,13 @@ p, h1, h2 {
     margin-top: 20px;
 }
 
+.text-styles {
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+}
+
+.text-styles li, .p {
+    font-family: "Montserrat", sans-serif;
+    margin-top: 10px;
+}
