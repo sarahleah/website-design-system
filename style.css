@@ -33,6 +33,10 @@ nav li {
   display: inline-block;
 }
 
+.blacktext {
+    color: black;
+}
+
 .colours div {
     padding: 30px;
 }
@@ -90,12 +94,15 @@ nav li {
     font-family: 'Sansita Swashed', cursive;
 }
 
-.sansita-swashed #h1{
+.sansita-swashed h2 {
+    font-size: 40px;
+}
+.sansita-swashed .h1{
     font-weight: 600;
     font-size: x-large;
 }
 
-.sansita-swashed #h2 {
+.sansita-swashed .h2 {
     font-weight: 400;
     font-style: italic;
     font-size: larger;
