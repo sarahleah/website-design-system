@@ -1,3 +1,115 @@
-div {
-    border: 5px, aquamarine, dotted;
+* {
+    margin: 0;
+}
+main {
+    background-color: #f9f7e9;
+}
+nav {
+    padding: 10px;
+    background-color: #69874d;
+    color: #f9f7e9;
+    width: 100%;
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: 600;
+    margin: 0;
+    font-size: xx-large;
+}
+
+nav li {
+    display: inline-block;
+    width: 30%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.colours {
+  font-family:'Montserrat', sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  width: 30%;
+  color: white;
+  display: inline-block;
+}
+
+.colours div {
+    padding: 30px;
+}
+
+#section-one {
+    background-color:#f9f7e9;
+}
+
+#section-two {
+    background-color: #c8c69a;
+}
+
+#section-three {
+    background-color: #304c1d;
+}
+
+#section-four {
+    background-color: #7a9679;
+}
+
+#section-five {
+    background-color: #90ad86;
+}
+
+#section-six {
+    background-color: #69874d;
+}
+
+#section-seven {
+    background-color: #14190b;
+}
+
+#section-eight {
+    background-color: #666d4b;
+}
+
+#section-nine {
+    background-color: #b4ccbc;
+}
+
+#section-ten {
+    background-color: #9c7c4c;
+}
+
+.fonts {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    height: 600px;
+    padding: 20px 30px 30px 30px;
+    line-height: 150%;
+}
+
+.sansita-swashed {
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.sansita-swashed #h1{
+    font-weight: 600;
+    font-size: x-large;
+}
+
+.sansita-swashed #h2 {
+    font-weight: 400;
+    font-style: italic;
+    font-size: larger;
+}
+
+.Montserrat {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 150%;
+}
+
+.Montserrat strong {
+    font-weight: bold;
+}
+
+p, h1, h2 {
+    margin-top: 20px;
 }
